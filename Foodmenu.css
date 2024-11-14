@@ -1,0 +1,38 @@
+header{
+    position: fixed;
+    top: 0;
+    width: 100vw;
+    height:70px;
+    line-height: 70px;
+}
+.navbar1 {
+    display: flex;
+}
+.navbar1 {
+   list-style: none;
+   padding: 3px,15px,3px 15px;
+   gap:10px;
+}
+.navbar1 :hover{
+     background-color:aqua ;
+     cursor: pointer;
+}
+.buttontype{
+    justify-content: center;
+    gap:100px;
+}
+.food-menu__item-text .rating li i {
+    font-size: 14px;
+    line-height: normal;
+    color: var(--rr-theme-primary);
+}
+.images1{
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    gap:120px;
+}
+.images2{
+    display: flex;
+    gap:120px;
+}

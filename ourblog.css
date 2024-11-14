@@ -1,0 +1,45 @@
+.insights{
+    display: flex;
+    gap:50px;
+    margin-left: 200px;
+}
+.cardbody.herf{
+    color:aliceblue;
+}
+.reservation-2__item-wrapper.h6.span{
+     color:red;
+}
+.container{
+    display: flex;
+    
+
+
+}
+.col-8{
+    display: flex;
+    gap:30px;
+}
+.section-space {
+    padding-top: 70px;
+    padding-bottom: 70px;
+    gap:30px;
+} 
+.buttontype{
+    border-radius: 60px;
+}
+.latestblog{
+     margin: 0%;
+     padding: 0%;
+}
+.lastpage{
+    background-color: blueviolet;
+}
+.footer__copyright-menu ul {
+    gap: 20px 25px;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+}

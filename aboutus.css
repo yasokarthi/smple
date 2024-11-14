@@ -1,0 +1,37 @@
+
+
+.container1{
+    display:flex;
+    background-color: gray;
+    margin: 0;
+    padding: 0%;
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.content1>h6{
+    margin-left: 100px;
+}
+.content1>h3{
+    color:rgb(150, 39, 39);
+    margin-left: 100px;
+}
+.content1>h2{
+    margin-left: 100px;
+}
+.content1>h2{
+    margin-left: 100px;
+}
+.content>h3{
+    display: flex;
+}
+.content>p{
+    gap:150%;
+    float:top;
+    margin-right: 500px;
+}
